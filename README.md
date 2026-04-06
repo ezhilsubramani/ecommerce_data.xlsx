@@ -1,13 +1,13 @@
 # 🛒 E-Commerce Sales Analysis Dashboard (Excel)
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes an E-commerce sales dataset using **Microsoft Excel** and **Pivot Tables** to generate business insights.
 
 The dashboard focuses on profitability, customer behavior, discount impact, and transaction trends across different categories and store types.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Microsoft Excel  
 - Pivot Tables  
 - Pivot Charts  
@@ -16,7 +16,7 @@ The dashboard focuses on profitability, customer behavior, discount impact, and 
 
 ---
 
-## 📊 Dashboard Insights
+##  Dashboard Insights
 
 ### 🔹 Store Type vs Profit
 Analyzed which store types generate higher profitability.
@@ -42,19 +42,19 @@ Evaluated which product categories contribute most to profit.
 
 ---
 
-## 🎛 Filters Used
+##  Filters Used
 - Year (Slicer)
 - Gender (Slicer)
 
 ---
 
-## 📁 Project Files
+##  Project Files
 - Ecommerce_sales_Dataset_updated.xlsx
 - Project objective-E-commerce.pdf
 
 ---
 
-## 🎯 Key Business Insights
+##  Key Business Insights
 - Identified top-performing store types.
 - Analyzed the relationship between discounts and profitability.
 - Evaluated customer loyalty contribution to sales.
@@ -62,7 +62,7 @@ Evaluated which product categories contribute most to profit.
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 This project demonstrates practical data analysis skills using Excel, including pivot-based reporting, dashboard creation, KPI design, and business insight generation.
 
 ---
