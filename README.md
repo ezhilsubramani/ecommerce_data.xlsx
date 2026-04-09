@@ -67,6 +67,6 @@ This project demonstrates practical data analysis skills using Excel, including 
 
 ---
 
-### 👩‍💻 Author
+###  Author
 **Ezhilarasi S**  
 Aspiring Data Analyst | Excel | Power BI | SQL
